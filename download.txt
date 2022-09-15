@@ -1,0 +1,32 @@
+Last Name: Builder, First Name: Bob, Email: bbuilder@mcc.edu, BannerID: 109001, Student Type: FullTime, Major: Computer Science, Balance: 140.23
+Last Name: Sailor, First Name: Popeye, Email: psailor@mcc.edu, BannerID: 109201, Student Type: PartTime, Major: Networking Degree, Balance: 900.00
+Last Name: Riding, First Name: Red, Email: rriding@mcc.edu, BannerID: 192911, Student Type: NoMajor, Balance: 1198.10
+Last Name: Mouse, First Name: Mickey, Email: mmouse@mcc.edu, BannerID: 109001, Student Type: FullTime, Major: Computer Science, Balance: 140.23
+Last Name: White, First Name: Snow, Email: swhite@mcc.edu, BannerID: 110110, Faculty Type: Professor, Dept: Computer Science
+Last Name: Duck, First Name: Blue, Email: bduck@mcc.edu, BannerID: 109201, Student Type: PartTime, Major: Networking Degree, Balance: 900.00
+127, Java I, 3
+128, Java II, 3
+Last Name: Builder, First Name: Bob, Email: bbuilder@mcc.edu, BannerID: 192911, Student Type: NoMajor, Balance: 1198.10
+130, Database Design, 3
+121, Discrete Math, 4
+
+____Students Sorted By Last Name___
+Last Name: Builder, First Name: Bob, Email: bbuilder@mcc.edu, BannerID: 109001, Student Type: FullTime, Major: Computer Science, Balance: 140.23
+Last Name: Builder, First Name: Bob, Email: bbuilder@mcc.edu, BannerID: 192911, Student Type: NoMajor, Balance: 1198.10
+Last Name: Duck, First Name: Blue, Email: bduck@mcc.edu, BannerID: 109201, Student Type: PartTime, Major: Networking Degree, Balance: 900.00
+Last Name: Mouse, First Name: Mickey, Email: mmouse@mcc.edu, BannerID: 109001, Student Type: FullTime, Major: Computer Science, Balance: 140.23
+Last Name: Riding, First Name: Red, Email: rriding@mcc.edu, BannerID: 192911, Student Type: NoMajor, Balance: 1198.10
+Last Name: Sailor, First Name: Popeye, Email: psailor@mcc.edu, BannerID: 109201, Student Type: PartTime, Major: Networking Degree, Balance: 900.00
+
+____Data Sorted By Key____
+121, Discrete Math, 4
+127, Java I, 3
+128, Java II, 3
+130, Database Design, 3
+Last Name: Builder, First Name: Bob, Email: bbuilder@mcc.edu, BannerID: 109001, Student Type: FullTime, Major: Computer Science, Balance: 140.23
+Last Name: Mouse, First Name: Mickey, Email: mmouse@mcc.edu, BannerID: 109001, Student Type: FullTime, Major: Computer Science, Balance: 140.23
+Last Name: Sailor, First Name: Popeye, Email: psailor@mcc.edu, BannerID: 109201, Student Type: PartTime, Major: Networking Degree, Balance: 900.00
+Last Name: Duck, First Name: Blue, Email: bduck@mcc.edu, BannerID: 109201, Student Type: PartTime, Major: Networking Degree, Balance: 900.00
+Last Name: White, First Name: Snow, Email: swhite@mcc.edu, BannerID: 110110, Faculty Type: Professor, Dept: Computer Science
+Last Name: Riding, First Name: Red, Email: rriding@mcc.edu, BannerID: 192911, Student Type: NoMajor, Balance: 1198.10
+Last Name: Builder, First Name: Bob, Email: bbuilder@mcc.edu, BannerID: 192911, Student Type: NoMajor, Balance: 1198.10
